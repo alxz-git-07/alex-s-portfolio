@@ -14,6 +14,7 @@ nav a{
 }
 button{
    background-color: white;
+   height: 30px;
 }
 
 .intro{
@@ -31,6 +32,9 @@ height:10vh
     background-color:rgb(184, 184, 190);
     padding: 60px;
     margin-bottom: 16px;
+}
+.about p{
+    font-size: larger;
 }
 .about img{
    width:40vw;
